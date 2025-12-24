@@ -22,8 +22,8 @@ Predict the linear regression using regr.predict()method and display the result.
 
 ## Program:
 
-Developed by: pragadeesh.M
-Register number: 25018154
+Developed by: VAISHNAVI T
+Register number: 25017435
 ```
 import pandas as pd
 from sklearn import linear_model
@@ -38,10 +38,11 @@ predictedCO2=regr.predict([[3300,1300]])
 print('PredictedCO2 for the corresponding Weight and Volume : ',predictedCO2)
 ```
 ## Output:
+```
 Coefficients: [0.00755095 0.00780526]
 Intercept: 79.69471929115939
 PredictedCO2 for the corresponding Weight and Volume :  [114.75968007]
-
+```
 ### Insert your output
 
 
